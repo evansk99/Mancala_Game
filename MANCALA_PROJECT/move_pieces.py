@@ -1,3 +1,6 @@
+### Fully fledged and improved in the final version in Play_Game file ###
+## Not needed to run the game !!##
+
 def move_pieces(board,player):
     #player=player-1
     tile=int(input("Choose a NON-EMPTY tile from your row:"))
