@@ -1,7 +1,8 @@
 Short Project Desrciption:
 This project's aim was to create a Player vs Player as well as a Player vs Computer mode in the board game of Mancala.
-The end result contains an interactive ui using Python as well as a set of different levels of difficulty upon facing the AI
-Right bellow you can find the basic rules of the game as described on the official website.
+The end result contains an interactive ui using Python as well as a set of different levels of difficulty upon facing the AI.
+The AI seraches for the best moves using the Min-Max search algorithm.
+Right bellow you can find the basic rules of the game as specified on the official website.
 Enjoy!
 
 
